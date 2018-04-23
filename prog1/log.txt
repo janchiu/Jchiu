@@ -1,0 +1,10 @@
+/* 
+Janson Chiu 
+jaachiu 
+12M 
+log.txt
+This file states the how the work was completed. 
+
+I did this programming assignment by myself
+
+*/

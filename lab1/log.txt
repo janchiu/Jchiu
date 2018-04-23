@@ -1,0 +1,9 @@
+
+//Janson Chiu 
+//jaachiu 
+//12B/12M
+//the log text file for the code. It is used to determine what I did.  
+//log.txt
+//nothing required to compile 
+
+I did not spend any time working on this assignment with another student other than the TA or one of the class tutors.
